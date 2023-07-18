@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote name="origin" fetch="https://github.com" />
+  
+  <project path="device/motorola/liber" name="Moto-Liber/device_motorola_liber-priv" remote="origin" revision="Android -T" />
+  
+  <project path="vendor/motorola/liber" name="Moto-Liber/vendor_motorola_liber" remote="origin" revision="Android-T" />
+  
+  <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" remote="origin" revision="lineage-20.0" />
+  
+  <project path="device/motorola/liber-kernel" name="hOS-OneFusion/platform_device_motorola_liber-kernel" remote="origin" revision="TwistedScarlett" />
+  
+  <project path="device/qcom/common" name="ViShal69x/android_device_qcom_common" remote="origin" revision="" />
+  
+  <project path="hardware/qcom-caf/sm8150/display" name="StatiXOS/android_hardware_qcom_display" remote="origin" revision="tm-caf-sm8150" />
+  
+  <project path="hardware/qcom-caf/sm8150/audio" name="LineageOS/android_hardware_qcom_audio" remote="origin" revision="lineage-20.0-caf-sm8150" />
+  
+  <project path="hardware/qcom-caf/sm8150/media" name="LineageOS/android_hardware_qcom_media" remote="origin" revision="lineage-20.0-caf-sm8150" />
+  
+  <project path="hardware/libhardware" name="StatiXOS/android_hardware_libhardware" remote="origin" />
+  
+  <project path="external/ant-wireless/ant_client" name="LineageOS/android_external_ant-wireless_ant_client" remote="origin" />
+  
+  <project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" remote="origin" />
+  
+  <project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" remote="origin" />
+  
+  <project path="external/ant-wireless/hidl" name="LineageOS/android_external_ant-wireless_hidl" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/audio" name="LineageOS/android_vendor_qcom_opensource_audio" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/audio-hal/st-hal" name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/healthd-ext" name="LineageOS/android_vendor_qcom_opensource_healthd-ext" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/thermal-engine" name="hentaiOS/platform_vendor_qcom_opensource_thermal-engine" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/usb" name="LineageOS/android_vendor_qcom_opensource_usb" remote="origin" />
+  
+  <project path="hardware/qcom-caf/thermal" name="StatiXOS/android_hardware_qcom_thermal" remote="origin" />
+  
+  <project path="hardware/qcom-caf/bootctrl" name="LineageOS/android_hardware_qcom_bootctrl" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/vibrator" name="LineageOS/android_vendor_qcom_opensource_vibrator" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/commonsys-intf/display" name="hOS-OneFusion/android_vendor_qcom_opensource_display-commonsys-intf" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/commonsys/display" name="StatiXOS/android_vendor_qcom_opensource_display-commonsys" remote="origin" />
+  
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr-legacy-um" name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="origin" revision="lineage-20.0-legacy-um" />
+  
+</manifest>
